@@ -1,0 +1,5 @@
+Sample Enterprise Policy
+
+Employees must protect confidential company information. Access to confidential documents should be limited to authorized personnel. Security incidents must be reported to the information security team promptly.
+
+Business continuity requires critical teams to maintain documented recovery procedures and periodically test them.
